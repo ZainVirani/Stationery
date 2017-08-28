@@ -7,5 +7,5 @@ function pencil() {
 }
 
 function pen() {
-  git commit -m $1
+  git commit
 }
